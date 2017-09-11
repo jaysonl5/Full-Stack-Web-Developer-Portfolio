@@ -1,0 +1,102 @@
+body{
+	background-color: #FAF9F9;
+}
+
+@media screen and (min-width: 990px){
+img.logo{
+	width: 70%;
+}
+}
+
+h1.brand{
+	color: #212E41;
+	font-size: 50px;
+	font-family: Oswald; 
+	font-weight: 700;
+	text-transform: uppercase;
+	text-align: right;
+	letter-spacing: -5px;
+}
+
+h2.brand{
+	color:#54998B;
+	font-size: 35px;
+	font-family: Oswald; 
+	font-weight: 300;
+	font-kerning: normal;
+	font-variant: small-caps;
+	text-align: right;
+	letter-spacing: 6px;
+	line-height: 60%;
+}
+
+h2.body{
+	margin-top: 30px;
+	color: #54998B;
+	font-family: Oswald;
+	font-weight: 300;
+	text-transform: uppercase;
+	letter-spacing: 10px;
+	text-align: center;
+}
+
+h4{
+	color: #212E41;
+	font-family: Oswald;
+	font-weight: 300;
+	text-transform: uppercase;
+	text-align: center;
+	kerning: normal;
+}
+
+hr{
+	border-color: #212E41;
+	border-top: 4px;
+	border-style: solid;
+}
+
+
+
+p{
+	font-family: Nunito;
+}
+
+p.bio{
+	font-family: Nunito;
+	font-size: 35px;
+	letter-spacing: -2px;
+}
+
+.btn{
+	font-family: Oswald;
+	font-weight: 700;
+	font-size:120%;
+	text-transform: uppercase;
+}
+
+.btn-success{
+	background-color:#7FD1D5;
+	border-color: #7FD1D5;
+}
+
+.btn-success:hover{
+	color:white;
+	background-color:#54998B;
+}
+
+a{
+	font-family: Nunito;
+	color:#7FD1D5;
+}
+
+a:hover{
+	color:white;
+	background-color:#7FD1D5;
+}
+
+a:visited{
+	color:#54998B;
+}
+
+
+
